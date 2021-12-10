@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/wot-techtree/static/css/main.e9af8722.chunk.css",
+    "main.js": "/wot-techtree/static/js/main.9b0759d6.chunk.js",
+    "main.js.map": "/wot-techtree/static/js/main.9b0759d6.chunk.js.map",
+    "runtime-main.js": "/wot-techtree/static/js/runtime-main.b8e2a8b8.js",
+    "runtime-main.js.map": "/wot-techtree/static/js/runtime-main.b8e2a8b8.js.map",
+    "static/js/2.a3e81444.chunk.js": "/wot-techtree/static/js/2.a3e81444.chunk.js",
+    "static/js/2.a3e81444.chunk.js.map": "/wot-techtree/static/js/2.a3e81444.chunk.js.map",
+    "static/js/3.15548b30.chunk.js": "/wot-techtree/static/js/3.15548b30.chunk.js",
+    "static/js/3.15548b30.chunk.js.map": "/wot-techtree/static/js/3.15548b30.chunk.js.map",
+    "index.html": "/wot-techtree/index.html",
+    "static/css/main.e9af8722.chunk.css.map": "/wot-techtree/static/css/main.e9af8722.chunk.css.map",
+    "static/js/2.a3e81444.chunk.js.LICENSE.txt": "/wot-techtree/static/js/2.a3e81444.chunk.js.LICENSE.txt",
+    "static/media/poland-Pl05_50TP.a9baff13.png": "/wot-techtree/static/media/poland-Pl05_50TP.a9baff13.png",
+    "static/media/poland-Pl06_10TP.2e900bab.png": "/wot-techtree/static/media/poland-Pl06_10TP.2e900bab.png",
+    "static/media/poland-Pl07_14TP.d89725cf.png": "/wot-techtree/static/media/poland-Pl07_14TP.d89725cf.png",
+    "static/media/poland-Pl09_7TP.22499b14.png": "/wot-techtree/static/media/poland-Pl09_7TP.22499b14.png",
+    "static/media/poland-Pl10_40TP_Habicha.f7dc1e80.png": "/wot-techtree/static/media/poland-Pl10_40TP_Habicha.f7dc1e80.png",
+    "static/media/poland-Pl11_45TP_Habicha.a830a622.png": "/wot-techtree/static/media/poland-Pl11_45TP_Habicha.a830a622.png",
+    "static/media/poland-Pl12_25TP_KSUST_II.41548ccb.png": "/wot-techtree/static/media/poland-Pl12_25TP_KSUST_II.41548ccb.png",
+    "static/media/poland-Pl13_53TP_Markowskiego.d8bc5b94.png": "/wot-techtree/static/media/poland-Pl13_53TP_Markowskiego.d8bc5b94.png",
+    "static/media/poland-Pl14_4TP.dfe5eaba.png": "/wot-techtree/static/media/poland-Pl14_4TP.dfe5eaba.png",
+    "static/media/poland-Pl15_60TP_Lewandowskiego.61d46000.png": "/wot-techtree/static/media/poland-Pl15_60TP_Lewandowskiego.61d46000.png",
+    "static/media/poland-Pl17_DS_PZlnz.0d909b98.png": "/wot-techtree/static/media/poland-Pl17_DS_PZlnz.0d909b98.png",
+    "static/media/poland-Pl18_BUGI.34993af9.png": "/wot-techtree/static/media/poland-Pl18_BUGI.34993af9.png",
+    "static/media/poland-Pl20_CS_44.96fb5b44.png": "/wot-techtree/static/media/poland-Pl20_CS_44.96fb5b44.png",
+    "static/media/poland-Pl21_CS_63.fa6fa5e8.png": "/wot-techtree/static/media/poland-Pl21_CS_63.fa6fa5e8.png",
+    "static/media/poland-Pl22_CS_59.797bd2d4.png": "/wot-techtree/static/media/poland-Pl22_CS_59.797bd2d4.png",
+    "static/media/poland-Pl23_CS_53.53abc2d7.png": "/wot-techtree/static/media/poland-Pl23_CS_53.53abc2d7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8e2a8b8.js",
+    "static/js/2.a3e81444.chunk.js",
+    "static/css/main.e9af8722.chunk.css",
+    "static/js/main.9b0759d6.chunk.js"
+  ]
+}
